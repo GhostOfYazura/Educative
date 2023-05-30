@@ -1,2 +1,2 @@
-# Educative
-Solutions I've made to different educative courses. Labelled to be as accurate as possible.
+# Study Solutions
+Solutions I've developed for different challenges, exams or questions inside of study books, websites and courses.
